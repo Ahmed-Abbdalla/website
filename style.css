@@ -528,7 +528,7 @@ input[type="submit"]:hover {
 /* responsive */
 
 /* mobile medium screen and large screen */
-@media (min-width: 0px) and (max-width: 425px) {
+@media (min-width: 0px) and (max-width: 767px) {
   html {
     font-size: 8px;
   }
@@ -660,7 +660,7 @@ input[type="submit"]:hover {
 }
 
 /* tablets */
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width:768px)and (max-width:992px) {
   html {
     font-size: 7px;
   }
