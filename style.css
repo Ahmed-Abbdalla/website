@@ -562,6 +562,12 @@ input[type="submit"]:hover {
     grid-template-rows: 1fr;
   }
 
+  .bio__heading {
+    width: 100%;
+    font-size: var(--font-size-40);
+    text-align: center;
+  }
+
   .bio__picContainer {
     grid-row: 1;
     justify-self: center;
